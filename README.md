@@ -14,7 +14,7 @@ Esta es la vista del modo de juego de entrenamiento en donde se reutiliza el com
 ![Login para ingresar](resources/img/Actividad7-4.png)
 Este componente de la vista general tiene: una imagen y un titulo
 
-![Login para ingresar](resources/img/Actividad7-4.png)
+![Login para ingresar](resources/img/Actividad7-6.png)
 Este componente de skin de la vista general tiene: una imagen y un precio y un nombre
 
 ![Login para ingresar](resources/img/Actividad7-5.png)
